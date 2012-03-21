@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3975
+
+after set g:paths in finder.vim , you can find your file by press <C-f> then input regular expression(now only support python's regular) to find file, it will open an window which list all the files that founded.
+
+move cursor to the file path that you want to open,
+press <Enter>, it will hide the find result window and edit the file in last window.
+press <Space>,same as <Enter> but keep the find result window
+press <ESC>  to close the findResult window.
+
+Need python support.
+
+Get lasted version on github: https://github.com/xieyu/Finder
+
+
